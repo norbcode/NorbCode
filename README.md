@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **HTML, JavaScript, CSS, Node.js, React.**
 
-- 📫 How to reach me **www.linkedin.com/in/nsuarezr/**
+- 📫 How to reach me **www.linkedin.com/in/norbcode/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
