@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Colombia<br><br>- 🔭 I’m working as a personal technology project<br>- 📚 I'm currently learning Web applications development<br>- ⚡ In my free time I I use it to strengthen my learning</p>
+<p align="left">🌐 I'm from Colombia<br><br>- 🔭 I’m working as a personal technology project<br>- 📚 I'm currently learning Web applications development<br>- ⚡ In my free time I I use it to strengthen my learning</p>
 
 ###
 
