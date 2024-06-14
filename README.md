@@ -22,7 +22,8 @@
 
 ###
 
-<h3 align="left">👨🏻‍💻  About Me</h3>
+<h3 align="left">👨🏻‍💻![image](https://github.com/norbcode/NorbCode/assets/114125989/1346f091-14e6-40aa-a24e-6d36fbe3b4c7)
+ About Me</h3>
 
 ###
 
